@@ -1,5 +1,5 @@
-# CPPDesignPatterns
-GOF Design patterns in C++
+# ObjCPPDesignPatterns
+GOF Design patterns in Objective-C++
 
 <h3> Technologies Used </h3>
 <img src="https://cdn.arstechnica.net/wp-content/uploads/2014/08/OpenGL_500.png" width="350"/>
